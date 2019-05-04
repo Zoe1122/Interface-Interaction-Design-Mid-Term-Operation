@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:4410px;
+  width:4454px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:4410px;
-  height:2249px;
+  height:3365px;
   background:inherit;
   background-color:rgba(148, 148, 148, 1);
   box-sizing:border-box;
@@ -33,10 +33,10 @@
 #u708 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:43px;
+  left:44px;
+  top:-37px;
   width:4410px;
-  height:2249px;
+  height:3365px;
 }
 #u708_text {
   border-width:0px;
@@ -221,8 +221,8 @@
 #u713 {
   border-width:0px;
   position:absolute;
-  left:2289px;
-  top:217px;
+  left:977px;
+  top:1797px;
   width:109px;
   height:42px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -259,8 +259,8 @@
 #u714 {
   border-width:0px;
   position:absolute;
-  left:2289px;
-  top:284px;
+  left:977px;
+  top:1864px;
   width:582px;
   height:199px;
   font-family:'Arial Normal', 'Arial';
@@ -336,8 +336,8 @@
 #u717 {
   border-width:0px;
   position:absolute;
-  left:1473px;
-  top:92px;
+  left:161px;
+  top:1672px;
   width:705px;
   height:643px;
 }
